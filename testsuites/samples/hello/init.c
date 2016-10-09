@@ -31,7 +31,8 @@ rtems_task Init(
 {
   rtems_print_printer_printf(&rtems_test_printer);
   rtems_test_begin();
-  printf( "Hello World\n" );
+  printf( "Hello RTEMS World\n" );
+  printf( "This is the modified version \nby Laurent Navet.\n");
   rtems_test_end();
   exit( 0 );
 }
