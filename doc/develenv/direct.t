@@ -116,7 +116,7 @@ This directory also contains RPM specifications for the
 prebuilt cross-compilation toolsets provided by the
 RTEMS project.  There are separate subdirectories
 for each of the components in the RTEMS Cross Compilation
-Environment unde the  @code{contrib/crossrpms/} directory.
+Environment under the  @code{contrib/crossrpms/} directory.
 This directory is configured, built, and installed separately
 from the RTEMS executive and tests.  This directory will not
 be discussed further in this document.
